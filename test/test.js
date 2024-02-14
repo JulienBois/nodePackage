@@ -1,3 +1,3 @@
-const helloWorld = require("nodePackage");
+const getRandomChuckNorrisJoke = require("cours_nodepackage");
 
-console.log(helloWorld());
+console.log(getRandomChuckNorrisJoke());
